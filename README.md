@@ -1,8 +1,9 @@
 <h1 align="left">Hi there 👋 I'm Farhan Wahyudi</h1>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
