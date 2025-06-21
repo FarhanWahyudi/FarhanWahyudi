@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanWahyudi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FarhanWahyudi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="170" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-hans-projects-716e1dc0.vercel.app?user=FarhanWahyudi&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
